@@ -113,8 +113,7 @@ python bot.py
 
 ## Issues or Questions
 
-If you have any issues or questions of how to code a specific command, you can Contact me on discord **
-Halfa#6592**
+If you have any issues or questions of how to code a specific command, you can Contact me on discord **Halfa#6592**
 
 ## Built With
 
