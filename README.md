@@ -15,9 +15,6 @@ If you plan to use this template to make your own template or bot, you **have to
 - Keep the credits, and a link to this repository in all the files that contains my code
 - Keep the same license for unchanged code
 
-See [the license file](https://github.com/kkrypt0nn/Python-Discord-Bot-Template/blob/master/LICENSE.md) for more
-information, I reserve the right to take down any repository that does not meet these requirements.
-
 ## Support
 
 Before requesting support, you should know that this template requires you to have at least a **basic knowledge** of
