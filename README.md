@@ -21,7 +21,7 @@ Before requesting support, you should know that this template requires you to ha
 Python and the library is made for advanced users. Do not use this template if you don't know the
 basics. [Here's](https://pythondiscord.com/pages/resources) a link for resources to learn python.
 
-If you need some help for something, do not hesitate to contact me on discord **Halfa#6592**.
+If you need some help for something, do not hesitate to contact me on discord **Halfa_**.
 
 ## Disclaimer
 
@@ -105,7 +105,7 @@ python bot.py
 
 ## Issues or Questions
 
-If you have any issues or questions of how to code a specific command, you can Contact me on discord **Halfa#6592**
+If you have any issues or questions of how to code a specific command, you can Contact me on discord **Halfa_**
 
 ## Built With
 
